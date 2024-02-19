@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.airlabs.mw",
+      "sha256_cert_fingerprints": [
+        "D1:A7:94:07:85:7C:69:C6:DA:DC:EB:6D:A0:51:3F:E2:71:B4:A2:C3:BF:46:50:8A:AB:1A:E4:62:16:9B:81:87"
+      ]
+    }
+  }
+]
